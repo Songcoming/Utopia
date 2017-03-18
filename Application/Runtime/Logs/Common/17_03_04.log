@@ -1,0 +1,30 @@
+[ 2017-03-04T12:03:16+08:00 ] 127.0.0.1 /ThinkPHP/index.php/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 无法加载模块:Search
+
+[ 2017-03-04T17:05:11+08:00 ] 127.0.0.1 /ThinkPHP/Public/img/2.jpg%20height=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-04T17:05:11+08:00 ] 127.0.0.1 /ThinkPHP/Public/img/3.jpg%20height=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-04T17:05:24+08:00 ] 127.0.0.1 /ThinkPHP/Public/img/2.jpg%20height=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-04T17:05:24+08:00 ] 127.0.0.1 /ThinkPHP/Public/img/3.jpg%20height=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+ERR: 无法加载模块:Public
+

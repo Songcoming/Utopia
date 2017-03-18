@@ -1,0 +1,22 @@
+[ 2017-02-21T21:21:20+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013023s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0094s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: username E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SELECT `uname`,`upwd`,`ugroup`,`uflag` FROM `user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.203984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.204069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.028738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028812s ]
+

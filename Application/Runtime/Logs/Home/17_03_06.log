@@ -1,0 +1,1659 @@
+[ 2017-03-06T09:07:19+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0307s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php on line 173 and defined E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1751 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002331s ]
+
+[ 2017-03-06T09:11:26+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0515s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002444s ]
+
+[ 2017-03-06T09:23:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.035263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.035369s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.1789s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0460s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0813s ]
+NOTIC: [8] Undefined index: savepath E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 179 行.
+NOTIC: [8] Undefined index: savaname E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 179 行.
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 183 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.219784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.219983s ]
+
+[ 2017-03-06T09:36:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0221s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0071s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0866s ]
+NOTIC: [8] Undefined index: savepath E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 179 行.
+NOTIC: [8] Undefined index: savaname E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 179 行.
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 183 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002859s ]
+
+[ 2017-03-06T09:36:59+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0752s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0114s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0907s ]
+NOTIC: [8] Undefined index: savepath E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined index: savaname E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 184 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002282s ]
+
+[ 2017-03-06T09:37:54+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0305s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0241s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0520s ]
+NOTIC: [8] Undefined index: savepath E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined index: savaname E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 185 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2017-03-06T09:39:28+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0118s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0085s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1396s ]
+NOTIC: [8] Undefined index: savepath E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined index: savename E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 186 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002303s ]
+
+[ 2017-03-06T09:46:58+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0381s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0144s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0400s ]
+NOTIC: [8] Undefined index: savepath E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined index: savename E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 186 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001784s ]
+
+[ 2017-03-06T09:49:35+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0416s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0086s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1319s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 185 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001220s ]
+
+[ 2017-03-06T09:56:24+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0143s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0074s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1853s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 185 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2017-03-06T09:57:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-03-06T09:58:00+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0703s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0112s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1063s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 183 行.
+
+[ 2017-03-06T10:02:22+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.1549s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0144s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1239s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 183 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003440s ]
+
+[ 2017-03-06T10:03:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0403s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0262s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1744s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('16','/58bcc364a1450.PNG','2017-03-06','2') [ RunTime:0.0449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003257s ]
+
+[ 2017-03-06T13:33:46+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009941s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0096s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0087s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1235s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('17','__PUBLIC__/58bcf4ba394f5.PNG','2017-03-06','2') [ RunTime:0.0427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.024902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.024995s ]
+
+[ 2017-03-06T13:34:19+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0610s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0173s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1007s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('18','__PUBLIC__/58bcf4db14946.PNG','2017-03-06','2') [ RunTime:0.0373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003302s ]
+
+[ 2017-03-06T13:37:12+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.1290s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0058s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0857s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('19','/ThinkPHP/58bcf58822e78.PNG','2017-03-06','2') [ RunTime:0.0656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001075s ]
+
+[ 2017-03-06T13:40:47+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.1661s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0474s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1116s ]
+NOTIC: [8] Use of undefined constant DOMAIN_NAME - assumed 'DOMAIN_NAME' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 180 行.
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('20','http://DOMAIN_NAME//58bcf65edc4b2.PNG','2017-03-06','2') [ RunTime:0.0494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005572s ]
+
+[ 2017-03-06T13:42:41+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0106s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0062s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0788s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('21','http://DOMAIN_NAME/ThinkPHP/Public/upload/58bcf6d1247b0.PNG','2017-03-06','2') [ RunTime:0.0993s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2017-03-06T13:44:36+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0079s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0615s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('22','/ThinkPHP/Public/upload/58bcf743e5bb8.PNG','2017-03-06','2') [ RunTime:0.0268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001846s ]
+
+[ 2017-03-06T14:35:24+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.042283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.042409s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0269s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0191s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0076s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0683s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('23','/ThinkPHP/Public/upload/58bd032c1cb25.PNG','2017-03-06','2') [ RunTime:0.0626s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 188 行.
+SQL: INSERT INTO `photos_tags` (`pid`,`tag`) VALUES ('23','') [ RunTime:0.1284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.070806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.070946s ]
+
+[ 2017-03-06T14:38:11+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0525s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0074s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0073s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.1117s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('24','/ThinkPHP/Public/upload/58bd03d30cb59.PNG','2017-03-06','2') [ RunTime:0.0295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-03-06T14:38:37+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001997s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.531004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.531140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.087293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.087409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005688s ]
+
+[ 2017-03-06T14:38:42+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 2  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined variable: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63b6d4100422b2238088400d31191563.php 第 126 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005391s ]
+
+[ 2017-03-06T14:39:26+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/updatepic/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 154 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func_array() expects parameter 1 to be a valid callback, function 'data' not found or invalid function name E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 418 行.
+SQL: SHOW COLUMNS FROM `photo_id` [ RunTime:0.0772s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0144s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0069s ]
+SQL: INSERT INTO `photo_id` (`pid`) VALUES ('0') [ RunTime:0.0829s ]
+SQL: INSERT INTO `photos` (`pid`,`photo`,`ptime`,`uid`) VALUES ('25','/ThinkPHP/Public/upload/58bd041da8e4b.PNG','2017-03-06','2') [ RunTime:0.1436s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 189 行.
+SQL: INSERT INTO `photos_tags` (`pid`,`tag`) VALUES ('25','screencut') [ RunTime:0.1528s ]
+SQL: INSERT INTO `photos_tags` (`pid`,`tag`) VALUES ('25','trash') [ RunTime:0.1022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003691s ]
+
+[ 2017-03-06T14:45:29+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-03-06T14:45:38+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-03-06T14:45:38+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zoo/srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0002s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 49 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001008s ]
+
+[ 2017-03-06T14:45:43+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0074s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\8e355508598cc1c21616b248edc73e01.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-03-06T15:01:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0143s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0098s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-03-06T16:17:46+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002432s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0579s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0096s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0132s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.284687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.284766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001251s ]
+
+[ 2017-03-06T16:19:31+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0095s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0898s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0128s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001886s ]
+
+[ 2017-03-06T16:20:04+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0212s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0074s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-03-06T16:20:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0139s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0162s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-03-06T16:23:00+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123598s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-06T16:23:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0094s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0071s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0142s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: cauthor E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\8e355508598cc1c21616b248edc73e01.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-06T16:25:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0084s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-03-06T16:27:47+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-06T16:28:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0078s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-03-06T16:28:34+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0093s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-06T16:29:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0093s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.1166s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-06T16:35:22+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-03-06T16:36:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0286s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0639s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0077s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0419s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-03-06T16:36:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.196822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-03-06T16:36:22+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-06T16:36:57+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-06T16:36:58+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-03-06T16:37:01+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-06T16:37:07+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0725s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uname` = 'claw' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2017-03-06T16:37:08+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-03-06T16:37:13+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-06T16:37:13+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zoo/srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0392s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0003s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 49 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-06T16:37:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0128s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0079s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-03-06T16:37:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-06T16:37:23+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0865s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0420s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0077s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: uid E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: cauthor E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\8e355508598cc1c21616b248edc73e01.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-03-06T21:54:06+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.090106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.090372s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.1065s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0380s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0344s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0471s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0302s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0219s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0100s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: uid E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 55 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+NOTIC: [8] Undefined variable: cuid E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\8e355508598cc1c21616b248edc73e01.php 第 145 行.
+NOTIC: [8] Undefined variable: cauthor E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\8e355508598cc1c21616b248edc73e01.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.857770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.857903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.032730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.032828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007507s ]
+
+[ 2017-03-06T21:56:02+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0373s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uname` = 'claw' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-03-06T21:56:04+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0506s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0157s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0281s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: cuid E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\8e355508598cc1c21616b248edc73e01.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-06T21:57:30+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid//pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+ERR: 参数错误或者未定义:pid
+
+[ 2017-03-06T22:00:20+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid//pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+ERR: 参数错误或者未定义:pid
+
+[ 2017-03-06T22:00:37+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid//pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002597s ]
+ERR: 参数错误或者未定义:pid
+
+[ 2017-03-06T22:01:44+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0918s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0165s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0293s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0307s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001988s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002563s ]
+
+[ 2017-03-06T22:01:54+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid/2/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `comment_id` [ RunTime:0.0712s ]
+NOTIC: [8] Undefined index: radio E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 213 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000463s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001397s ]
+
+[ 2017-03-06T22:02:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001952s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0089s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.1012s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000345s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2017-03-06T22:03:07+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid/2/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `comment_id` [ RunTime:0.0377s ]
+NOTIC: [8] Undefined index: radio E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 213 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001530s ]
+
+[ 2017-03-06T22:04:14+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid/2/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+SQL: SHOW COLUMNS FROM `comment_id` [ RunTime:0.0375s ]
+SQL: INSERT INTO `comment_id` (`cid`) VALUES ('0') [ RunTime:0.1989s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0821s ]
+SQL: INSERT INTO `photos_uid_comments` (`cid`,`pid`,`uid`,`contents`,`posttime`) VALUES ('1','1','2','      Nice!','2017-03-06') [ RunTime:0.0931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001604s ]
+
+[ 2017-03-06T22:04:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0297s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.1080s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0173s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+SQL: SELECT `uname` FROM `user` WHERE ( uid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2017-03-06T22:04:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+SQL: SELECT `uname` FROM `user` WHERE ( uid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2017-03-06T22:05:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/upcomment/uid/2/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `comment_id` [ RunTime:0.0355s ]
+SQL: INSERT INTO `comment_id` (`cid`) VALUES ('0') [ RunTime:0.0765s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0320s ]
+SQL: INSERT INTO `photos_uid_comments` (`cid`,`pid`,`contents`,`posttime`) VALUES ('2','1','      Fine!','2017-03-06') [ RunTime:0.1837s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002900s ]
+
+[ 2017-03-06T22:05:11+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0251s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0710s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0148s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+SQL: SELECT `uname` FROM `user` WHERE ( uid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-03-06T22:05:11+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0078s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+SQL: SELECT `uname` FROM `user` WHERE ( uid="2" ) LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001113s ]
+
+[ 2017-03-06T22:06:13+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002976s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0404s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0132s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0138s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0599s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0013s ]
+SQL: SELECT `uname` FROM `user` WHERE ( uid="2" ) LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003485s ]
+
+[ 2017-03-06T22:06:14+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/show/picshow/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0117s ]
+SQL: SHOW COLUMNS FROM `photos_uid_comments` [ RunTime:0.0076s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `user` WHERE ( uid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos_tags` WHERE ( pid="1" )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 32 行.
+SQL: SELECT * FROM `photos_uid_comments` WHERE ( pid="1" )  [ RunTime:0.0002s ]
+SQL: SELECT `uname` FROM `user` WHERE ( uid="2" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: comments E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\ShowController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006513s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002024s ]
+

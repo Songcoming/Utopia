@@ -1,0 +1,1866 @@
+[ 2017-03-02T10:35:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.058549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.058781s ]
+
+[ 2017-03-02T10:35:41+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0319s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.204828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.204911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.021321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007636s ]
+
+[ 2017-03-02T10:36:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/signin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0787s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `user` (`uname`,`uemail`) VALUES ('stars;cows','zpd@zmail.com') [ RunTime:0.1523s ]
+SQL: UPDATE `user` SET `uflag`='300',`ugroup`='101' WHERE `uname` = 'stars;cows' AND `uemail` = 'zpd@zmail.com' [ RunTime:0.0989s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.184137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.184219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-03-02T10:36:18+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2017-03-02T10:39:22+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-03-02T10:41:14+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021714s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-03-02T10:41:29+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1383s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: email E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: UPDATE `user` SET `uemail`=NULL WHERE `uid` = 3 [ RunTime:0.0801s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0170s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 99 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','stars;cows') [ RunTime:0.0285s ]
+ERR: Think\Controller:seccess方法不存在！
+
+[ 2017-03-02T10:42:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1481s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: email E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: UPDATE `user` SET `uemail`=NULL WHERE `uid` = 3 [ RunTime:0.0691s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0181s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 99 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','stars;cows') [ RunTime:0.0612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-03-02T10:44:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1300s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-03-02T10:44:37+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1176s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: email E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: UPDATE `user` SET `uemail`=NULL WHERE `uid` = 3 [ RunTime:0.0995s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0200s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 99 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','aaa') [ RunTime:0.0385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-03-02T10:44:46+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1305s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2017-03-02T10:44:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-02T10:46:20+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-03-02T10:47:14+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0672s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: email E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 91 行.
+NOTIC: [8] Undefined index: email E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: UPDATE `user` SET `uemail`=NULL WHERE `uid` = 3 [ RunTime:0.0604s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0164s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 99 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','') [ RunTime:0.0419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000379s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001688s ]
+
+[ 2017-03-02T10:48:02+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2325s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: email E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: UPDATE `user` SET `uemail`=NULL WHERE `uid` = 3 [ RunTime:0.0507s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0096s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 99 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','') [ RunTime:0.0461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001431s ]
+
+[ 2017-03-02T10:48:31+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1467s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd2@zmail.com' WHERE `uid` = 3 [ RunTime:0.0718s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0168s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 99 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','') [ RunTime:0.0690s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001114s ]
+
+[ 2017-03-02T10:48:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1702s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-03-02T10:59:43+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-03-02T10:59:53+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-03-02T11:00:13+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1043s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.0793s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-03-02T11:00:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-03-02T11:03:11+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1820s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.0369s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 102 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 104 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2017-03-02T11:03:40+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1540s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.1133s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 102 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 104 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001467s ]
+
+[ 2017-03-02T11:03:53+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2289s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.0439s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 102 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 104 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2017-03-02T11:04:24+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0617s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.0665s ]
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 104 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2017-03-02T11:05:11+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2582s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.0565s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0251s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 106 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','stars') [ RunTime:0.0411s ]
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','cows') [ RunTime:0.0289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2017-03-02T11:05:43+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1373s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd3@zmail.com' WHERE `uid` = 3 [ RunTime:0.0736s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0469s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 106 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','stars') [ RunTime:0.0450s ]
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','cows') [ RunTime:0.1058s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-03-02T11:06:01+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0384s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd4@zmail.com' WHERE `uid` = 3 [ RunTime:0.1034s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0154s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 106 行.
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','stars') [ RunTime:0.0384s ]
+SQL: INSERT INTO `utags` (`uid`,`tags`) VALUES ('3','cows') [ RunTime:0.0293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001910s ]
+
+[ 2017-03-02T11:06:02+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-03-02T11:07:04+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-03-02T11:10:59+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-03-02T11:11:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008225s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-03-02T11:15:09+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-03-02T11:17:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-03-02T11:18:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2017-03-02T11:18:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-03-02T11:18:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-03-02T11:18:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-03-02T11:18:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2017-03-02T11:19:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1437s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-03-02T11:20:12+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000947s ]
+
+[ 2017-03-02T11:20:41+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2017-03-02T11:22:36+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1280s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2017-03-02T11:31:30+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1042s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd4@zmail.com' WHERE `uid` = 3 [ RunTime:0.0478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+
+[ 2017-03-02T11:32:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2313s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `uemail`='zpd4@zmail.com' WHERE `uid` = 3 [ RunTime:0.0588s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-03-02T11:40:32+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
+[ 2017-03-02T11:40:38+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1382s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-03-02T11:40:39+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2017-03-02T11:40:54+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0513s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `user` SET `uemail`='zpd5@zmail.com' WHERE `uid` = 3 [ RunTime:0.0907s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001824s ]
+
+[ 2017-03-02T11:40:55+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1743s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0242s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-03-02T12:33:06+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1192s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0484s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 109 行.
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000378s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004629s ]
+
+[ 2017-03-02T12:33:08+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001900s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1676s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000917s ]
+
+[ 2017-03-02T12:33:20+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/changeinfo/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1318s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0439s ]
+NOTIC: [8192] Function split() is deprecated E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 109 行.
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001880s ]
+
+[ 2017-03-02T12:33:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002611s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0242s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009571s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-03-02T12:33:37+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/__app__/home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-02T12:33:37+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001360s ]
+
+[ 2017-03-02T12:33:42+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/__app__/home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-03-02T12:33:42+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-03-02T12:34:30+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1382s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002711s ]
+
+[ 2017-03-02T12:34:31+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1675s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0221s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000317s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000567s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002432s ]
+
+[ 2017-03-02T12:34:32+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001999s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0302s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001386s ]
+
+[ 2017-03-02T12:34:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001034s ]
+
+[ 2017-03-02T12:34:36+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/__app__/home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-02T12:34:36+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0433s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002269s ]
+
+[ 2017-03-02T12:34:39+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-03-02T12:34:39+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0341s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-03-02T12:34:39+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001621s ]
+
+[ 2017-03-02T12:34:40+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0246s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-03-02T12:34:40+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002883s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001657s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001778s ]
+
+[ 2017-03-02T12:37:08+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0525s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 3  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: data E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+NOTIC: [8] Undefined index: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003436s ]
+
+[ 2017-03-02T12:37:11+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-03-02T12:37:12+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+NOTIC: [8] Undefined index: uid E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\UserController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001025s ]
+
+[ 2017-03-02T12:37:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-03-02T12:39:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2017-03-02T12:39:16+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-02T13:38:41+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-02T13:39:02+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-03-02T13:39:13+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.2454s ]
+NOTIC: [8] Undefined index: validate E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto E:\program files\xampp\htdocs\ThinkPHP\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `uname` = 'claw' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2017-03-02T13:39:14+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-03-02T13:39:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/user/zone/uid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `user` WHERE `uid` = 2 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `utags` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `utags` WHERE `uid` = 2  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: tags E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63b6d4100422b2238088400d31191563.php 第 124 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+

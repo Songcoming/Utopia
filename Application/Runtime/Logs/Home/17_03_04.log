@@ -1,0 +1,1850 @@
+[ 2017-03-04T10:48:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.232555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028174s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.014756s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.014948s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.618918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.619021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.057267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.057348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034169s ]
+
+[ 2017-03-04T10:53:22+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119383s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-04T10:53:55+08:00 ] 127.0.0.1 /ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-04T11:48:24+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=zootopia&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-03-04T11:49:56+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.161815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.161889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2017-03-04T11:50:04+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-03-04T11:50:05+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-03-04T11:50:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar?searchtext=zootopia&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.157797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.157848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-03-04T11:50:28+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar?searchtext=zootopia&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-03-04T11:50:55+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-04T11:50:56+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-04T11:51:03+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2017-03-04T11:54:00+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003225s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-03-04T11:54:06+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-04T11:54:14+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-04T11:55:47+08:00 ] 127.0.0.1 /ThinkPHP/index.php?searchtext=&searchrange=pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-04T11:55:53+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-04T11:57:31+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002643s ]
+
+[ 2017-03-04T11:57:47+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-03-04T12:03:16+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-04T12:07:57+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-04T12:07:58+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'u_shared_0'
+
+[ 2017-03-04T12:08:57+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'u_share_0'
+
+[ 2017-03-04T12:08:58+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'u_share_0'
+
+[ 2017-03-04T12:08:58+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'u_share_0'
+
+[ 2017-03-04T12:08:59+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'u_share_0'
+
+[ 2017-03-04T12:09:15+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.1254s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:23+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0081s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:26+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0271s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:26+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0035s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:27+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0352s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:27+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:32+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-04T12:14:32+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0926s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 24 行.
+
+[ 2017-03-04T12:14:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 25 行.
+
+[ 2017-03-04T15:41:56+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018665s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0974s ]
+NOTIC: [8] Undefined variable: tichandle E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 25 行.
+
+[ 2017-03-04T15:42:16+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002302s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0289s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.069221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.069351s ]
+
+[ 2017-03-04T15:42:46+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0103s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-03-04T15:43:03+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0237s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002926s ]
+
+[ 2017-03-04T15:43:19+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0313s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2017-03-04T15:44:09+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0107s ]
+SQL: SELECT `tag` FROM `photos_tags` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-04T15:45:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0113s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-03-04T16:08:54+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+ERR: 参数错误或者未定义:stext
+
+[ 2017-03-04T16:09:00+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0114s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-03-04T16:09:01+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0132s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-03-04T16:09:03+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0118s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-04T16:09:03+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0508s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-03-04T16:09:03+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0038s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-04T16:09:03+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0054s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-03-04T16:10:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0091s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-03-04T16:13:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-04T16:14:22+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0093s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-03-04T16:17:45+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0082s ]
+SQL: SELECT `tag` FROM `photos_tags`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-04T16:26:44+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0232s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2017-03-04T16:45:34+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.1388s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0264s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0241s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0206s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000455s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003369s ]
+
+[ 2017-03-04T16:45:49+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+
+[ 2017-03-04T16:46:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0094s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 45 行.
+SQL: SELECT * FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006769s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-03-04T16:58:24+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0205s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 45 行.
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 45 行.
+SQL: SELECT * FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-03-04T16:59:34+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0091s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 46 行.
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 46 行.
+SQL: SELECT * FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-03-04T17:00:13+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0392s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT * FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000294s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000506s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002723s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003603s ]
+
+[ 2017-03-04T17:00:48+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0194s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT * FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Array to string conversion E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001484s ]
+
+[ 2017-03-04T17:01:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0253s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+ERR: Think\Model:gatField方法不存在！
+
+[ 2017-03-04T17:02:00+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0183s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2017-03-04T17:02:38+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0338s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0008s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001734s ]
+
+[ 2017-03-04T17:05:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0002s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118537s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026969s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002397s ]
+
+[ 2017-03-04T17:05:24+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0155s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-03-04T17:06:07+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-03-04T17:08:57+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zootopia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0163s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016916s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001517s ]
+
+[ 2017-03-04T17:10:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-03-04T17:10:18+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/aaaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.2189s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0268s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2017-03-04T19:26:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/aaaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003109s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0205s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002622s ]
+
+[ 2017-03-04T19:26:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/aaaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0664s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0469s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-03-04T19:53:16+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-04T19:53:16+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-03-04T20:40:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+
+[ 2017-03-04T20:40:52+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0572s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0404s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 97 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-03-04T20:41:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 97 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-04T20:52:48+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2017-03-04T20:53:44+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-03-04T20:56:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2017-03-04T20:56:21+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined variable: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001664s ]
+
+[ 2017-03-04T20:57:07+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1157s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000239s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002506s ]
+
+[ 2017-03-04T20:57:07+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-03-04T20:57:23+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-03-04T20:57:23+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-03-04T20:58:12+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-03-04T20:58:12+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0752s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0385s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0004s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-03-04T21:07:09+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-03-04T21:07:09+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1110s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: sum E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-03-04T21:07:10+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined variable: sum E:\program files\xampp\htdocs\ThinkPHP\Application\Runtime\Cache\Home\63c9205ecd2b7c65696cf995a53e3a15.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-03-04T21:07:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-03-04T21:07:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2017-03-04T21:08:58+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-04T21:08:59+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2017-03-04T21:15:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+
+[ 2017-03-04T21:15:17+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext/zoo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `photos_tags` [ RunTime:0.0669s ]
+SQL: SHOW COLUMNS FROM `photos` [ RunTime:0.0403s ]
+SQL: SELECT * FROM `photos_tags`  [ RunTime:0.0003s ]
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sresult E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 47 行.
+SQL: SELECT `photo` FROM `photos` WHERE ( pid="2" ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-03-04T21:24:40+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-03-04T21:24:40+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:06+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001924s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:50+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005831s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:25:51+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchpic/stext//srange/pictures
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+ERR: 参数错误或者未定义:srange
+
+[ 2017-03-04T21:26:33+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchbar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-03-04T21:26:34+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo/srange/users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1090s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0018s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 104 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000421s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005438s ]
+
+[ 2017-03-04T21:26:34+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo/srange/users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 104 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-03-04T21:27:49+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo/srange/users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0248s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 104 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002564s ]
+
+[ 2017-03-04T21:27:49+08:00 ] 127.0.0.1 /ThinkPHP/index.php/home/search/searchuser/stext/bogo/srange/users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `user` WHERE ( uname="bogo" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: intro E:\program files\xampp\htdocs\ThinkPHP\Application\Home\Controller\SearchController.class.php 第 104 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001808s ]
+
